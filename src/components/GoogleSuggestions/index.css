@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.google-logo {
+  width: 40vh;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.search-logo {
+  width: 30px;
+  margin: 12px;
+}
+
+.input {
+  outline: none;
+  border: none;
+}
